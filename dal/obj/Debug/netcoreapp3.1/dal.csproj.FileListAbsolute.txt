@@ -1,0 +1,5 @@
+C:\Github\tables\tables\dal\bin\Debug\netcoreapp3.1\dal.deps.json
+C:\Github\tables\tables\dal\bin\Debug\netcoreapp3.1\dal.dll
+C:\Github\tables\tables\dal\obj\Debug\netcoreapp3.1\dal.AssemblyInfoInputs.cache
+C:\Github\tables\tables\dal\obj\Debug\netcoreapp3.1\dal.AssemblyInfo.cs
+C:\Github\tables\tables\dal\obj\Debug\netcoreapp3.1\dal.csprojAssemblyReference.cache
